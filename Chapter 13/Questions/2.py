@@ -1,0 +1,1 @@
+print("The name of the student is {0}, his marks are {1} and the phone number associated is {2}".format("Harry",97,9265573536))
