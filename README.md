@@ -7,8 +7,8 @@ Notes.txt
 
 This repo the codes while learning the following course on Youtube from [CodeWithHarry](https://www.youtube.com/watch?v=gfDE2a7MKjA)
 - Contains 13 Chapters which covers the basics of Python
-Beginner Friendly Projects : 
--
+## Beginner Friendly Projects : 
+
 - Snake Water Gun Project
 - Number Guessing Game 
     - which uses File Handling to store the number of tries taken to guess
